@@ -1,0 +1,9 @@
+#include "ENV.h"
+
+
+String ENV::ENVVars::WEBHOOK = "homebrige-webhook.com";
+String ENV::ENVVars::PLANT_NAME_01 = "bedroom-ficus";
+String ENV::ENVVars::PLANT_NAME_02 = "bedroom-palm";
+
+char* ENV::ENVVars::SSID = "mywifi";
+char* ENV::ENVVars::NET_PASSWD = "mypassword";
