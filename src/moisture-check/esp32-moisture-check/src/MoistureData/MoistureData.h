@@ -6,7 +6,7 @@
 #ifndef MOISTUREDATA_H
 #define MOISTUREDATA_H
 #define MAX_DRY 2850
-#define MAX_WET 940
+#define MAX_WET 920
 
 class MoistureData {
     private:
